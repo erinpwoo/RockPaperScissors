@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Game()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Game\n
+comment1.params=
+comment1.target=java.lang.String\ playOneRound()
+comment2.params=
+comment2.target=java.lang.String\ getP1Move()
+comment3.params=
+comment3.target=java.lang.String\ getP2Move()
+numComments=4
